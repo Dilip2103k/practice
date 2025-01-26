@@ -2,3 +2,4 @@ This is from the GIT bash
 This is from the Linux
 This is from visual studio code
 This is from feature1
+This is from feature2
